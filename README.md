@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome to my page 
 
-<!--
-**Seamus-Brennan/Seamus-Brennan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently in my third year of studying Computer Science 💻 at the University of Pretoria 
 
-Here are some ideas to get you started:
+How to reach me: 📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    -Email: seamus@ipmc.co.uk
+    -WhatsApp: 0743149813
+
+Languages:
+
+    -Java
+    -C++
+    -PHP
+    -Python
+    -JavaScript
+
