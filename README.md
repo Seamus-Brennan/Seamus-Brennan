@@ -1,4 +1,4 @@
-### Welcome to my page 
+### Hey 👋 welcome to my page 
 
 I'm currently in my third year of studying Computer Science 💻 at the University of Pretoria 
 
@@ -10,8 +10,21 @@ How to reach me: 📱
 Languages:
 
     -Java
+    -JavaScript
     -C++
     -PHP
     -Python
-    -JavaScript
 
+Backend
+
+    -SQL
+    -Node.js
+
+Frontend
+
+    -HTML
+    -CSS
+---
+My current major interests are artificial intelligence 🤖 and computer graphics 👁
+
+I hope to one day make a product that changes the world in a way that I can be proud of 🌎
